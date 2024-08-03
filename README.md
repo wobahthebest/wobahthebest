@@ -1,4 +1,4 @@
-<h1>Hi I'm Abdulloh Qurbonov! 👋</h1>
+<h1>Hi I'm shohjahon holmuhamedov! 👋</h1>
 <ul>
      <li>👨‍💻 I’m currently studying on web development technologies like JavaScript, ReactJs, TypeScript, NextJs</li>
      <li>📚 I’m currently learning everything about Frontend and Backend technologies</li>
