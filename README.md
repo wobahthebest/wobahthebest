@@ -1,17 +1,15 @@
 <h1>Hi I'm shohjahon holmuhamedov! 👋</h1>
 <ul>
      <li>👨‍💻 I’m currently studying on web development technologies like JavaScript, ReactJs, TypeScript, NextJs</li>
-     <li>📚 I’m currently learning everything about Frontend and Backend technologies</li>
+     <li>📚 I’m currently learning everything about Frontend technologies and skills</li>
 </ul>
 
 <h2>Skills 🛠</h2>
 
 <ul>
-     <li><b>Languages: </b>JavaScript, C</li>
-     <li><b>Frontend: </b>HTML5, CSS3, Bootstrap5, TailwindCSS, ReactJs, TypeScript</li>
-     <li><b>Backend: </b>NodeJs, ExpressJs</li>
-     <li><b>Databases: </b>MongoDB</li>
-     <li><b>Total projects: </b>15 </li>
+     <li><b>Languages: </b>JavaScript </li>
+     <li><b>Frontend: </b>HTML5, CSS3 </li>
+     <li><b>Total projects: </b> 2 </li>
 </ul>
 
 <h3>Contact</h3>
